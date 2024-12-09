@@ -1,0 +1,38 @@
+{
+  "basic-cost-1": {
+    "name": "POC",
+    "description": "",
+    "NonDiplomat": {
+      "CONSOLE": {
+        "1-60": "INCLUDED"
+      },
+      "20DRY": "INCLUDED",
+      "40HC": "INCLUDED"
+    },
+    "Diplomat": {
+      "CONSOLE": {
+        "1-60": "INCLUDED"
+      },
+      "20DRY": "INCLUDED",
+      "40HC": "INCLUDED"
+    }
+  },
+  "basic-cost-2": {
+    "name": "THC",
+    "description": "",
+    "NonDiplomat": {
+      "CONSOLE": {
+        "1-60": "INCLUDED"
+      },
+      "20DRY": "INCLUDED",
+      "40HC": "INCLUDED"
+    },
+    "Diplomat": {
+      "CONSOLE": {
+        "1-60": "INCLUDED"
+      },
+      "20DRY": "INCLUDED",
+      "40HC": "INCLUDED"
+    }
+  }
+}
